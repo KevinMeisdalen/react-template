@@ -1,0 +1,23 @@
+{
+  "name": "kevin.v2",
+  "version": "1.0.1",
+  "type": "module",
+  "bin": {
+    "kevin.v2": "index.js"
+  },
+  "files": [
+    "template",
+    "index.js"
+  ],
+  "keywords": [
+    "react",
+    "template",
+    "vite",
+    "mui",
+    "motion"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.3.2"
+  }
+}
